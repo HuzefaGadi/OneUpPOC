@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "oneuppoc",
+    "project_number": "247655778064",
+    "name": "OneUpPOC"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247655778064:android:2b308306e93aff3b",
+        "client_id": "android:saiflimited.com.oneuppoc",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "saiflimited.com.oneuppoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247655778064-6jq8085crum9jctphoedhrkcp1343abm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saiflimited.com.oneuppoc",
+            "certificate_hash": "F1D108E0444C7EFE98C0D6BF934816313BA38961"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
